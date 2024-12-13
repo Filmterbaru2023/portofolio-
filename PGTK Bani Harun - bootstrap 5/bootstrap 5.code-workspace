@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap 5",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../pgtk bani harun/image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap 5"
+	}
+}
